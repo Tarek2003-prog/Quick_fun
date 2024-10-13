@@ -1,0 +1,5 @@
+bal
+hallo
+naam
+hond
+kat

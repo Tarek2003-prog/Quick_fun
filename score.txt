@@ -1,0 +1,5 @@
+{"naam": "tarek", "woord": "bal", "geraden": true, "pogingen": 0, "datum": "2024-10-02 14:50:50.209352"}
+{"naam": "Tarek", "woord": "kat", "geraden": true, "pogingen": 1, "datum": "2024-10-02 15:02:45.673468"}
+{"naam": "Tarek", "woord": "chagrijnig", "geraden": true, "pogingen": 1, "datum": "2024-10-02 16:08:32.392489"}
+{"naam": "Tarek", "woord": "hallo", "geraden": true, "pogingen": 6, "datum": "2024-10-06 20:01:29.401912"}
+{"naam": "Tarek", "woord": "bal", "geraden": true, "pogingen": 0, "datum": "2024-10-13 19:39:35.123487"}
